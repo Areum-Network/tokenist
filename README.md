@@ -1,6 +1,6 @@
 # 💸 Tokenist
 
-This repository contains token images for Areon. These images are used to enhance the visual representation of tokens within various scanners and explorers.
+This repository contains token images for Areum. These images are used to enhance the visual representation of tokens within various scanners and explorers.
 
 ## Usage
 
@@ -9,7 +9,7 @@ To use these images in your project, you can either:
 1. **Direct URL**: Link directly to the image hosted on GitHub. For example:
 
 ```sh
-https://raw.githubusercontent.com/areon-network/tokenist/main/assets/tokens/<contract_address>/image.png
+https://raw.githubusercontent.com/areum-network/tokenist/main/assets/tokens/<contract_address>/image.png
 ```
 
 2. **Download**: Download the image and host it yourself.
